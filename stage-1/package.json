@@ -1,0 +1,16 @@
+{
+  "name": "stage-1",
+  "version": "1.0.0",
+  "description": "A server with an endpoint that take two GET request query parameters and return specific information in JSON format.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server"
+  },
+  "keywords": [],
+  "author": "Aphatheology",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
