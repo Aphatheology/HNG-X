@@ -1,0 +1,3 @@
+MONGODB_URL=YourMongoDbURL
+NODE_ENV=developmentOrproduction
+PORT=YourPortDefaultIs3000`
